@@ -16,7 +16,11 @@ samplefour
 child1
 child2
 child3
+<<<<<<< HEAD
 bshdgiyg
 demo1
 demo2
 demo3
+=======
+fdhukgk
+>>>>>>> a250204 (dfghj)
