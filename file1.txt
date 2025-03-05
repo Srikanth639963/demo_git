@@ -11,9 +11,3 @@ Tenth line completes this file.
 what about remaing
 sampleone
 sampletwo
-sampletwo
-samplethree
-samplefour
-child1
-child2
-child3
